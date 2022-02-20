@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function App() {
   return (
-    <div>App Status</div>
+    <div>This is dashboard app</div>
   )
 }
